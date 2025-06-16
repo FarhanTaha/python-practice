@@ -28,8 +28,8 @@ print('You will be ' + str(int(myAge) + 1) + ' in a year.')
 
 
 spam = input()
-# print(3* int(spam))
-# print("You are  " + spam)
+print(3* int(spam))
+print("You are  " + spam)
 
 spam = int(spam)
 
